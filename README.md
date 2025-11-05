@@ -7,7 +7,7 @@
 
 - 🧩 Strong in **DSA**, **OOP**, and **System Design Fundamentals**  
 - 🛠️ Backend Development with **Java (Spring Boot)**, **Python**, **MySQL**, and **REST APIs**  
-- ☁️ Cloud Familiarity with **AWS**, **Azure**, and **Docker**  
+- ☁️ Cloud Familiarity with **AWS**, **Azure**, and **GCP**  
 - 🤖 Passionate about **AI/ML**, **NLP**, and automation for scalable real-world products  
 - 🧠 Regular problem solver on **LeetCode** and **GeeksforGeeks**  
 - ✍️ Sharing knowledge via **[Medium](https://medium.com/@muthudhanusharsince2004)** blogs  
